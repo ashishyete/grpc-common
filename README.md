@@ -1,1 +1,1 @@
-# spring-boot-grpc-common
+grpc-common

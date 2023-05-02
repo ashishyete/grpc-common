@@ -9,7 +9,7 @@ message Book{
   string title = 2;
   float price = 3;
   int32 pages = 4;
-  int32 author_i = 5;
+  int32 author_id = 5;
 }
 
 message Author{
